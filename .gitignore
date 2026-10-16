@@ -1,2 +1,2 @@
-*.joblib
-models/classical/*.joblib
+models/
+data/
